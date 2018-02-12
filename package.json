@@ -1,12 +1,12 @@
 {
-  "name": "iwa-conference-website",
+  "name": "iwa-website-2017",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Avi Kejariwal",
+  "author": "Keren Chen",
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.16.0",
