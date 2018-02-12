@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<head>
+	<title>Registration - 18th IWA Conference, Los Angeles</title>
+	<% include partials/dependencies %>
+    <link rel="stylesheet" href="/css/common.css" type='text/css'>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-93462907-1', 'auto');
+      ga('send', 'pageview');
+
+  </script>
+</head>
+<body id="register">
+	<% include partials/header %>
+	<main>
+        <div class="container">
+            <h1 class="center">Register</h1>
+            <div class="row">
+                <h3 class="col l5 m5 s12">Register as IWA Member</h3>
+                    <form class="col l7 m7 s12" id="mem_register" action="/register/member" method="post" enctype="multipart/form-data">
+                        <div class="row">
+                            <div class="input-field col s6">
+                        <input placeholder="" name="membership_no" id="membership_no" type="text" class="validate">
+                        <label for="membership_no">Membership Number</label>
+                    </div>
+                    <div class="input-field col s6">
+                        <input placeholder="" name="last_name" id="last_name" type="text" class="validate">
+                        <label for="last_name">Last Name</label>
+                    </div>
+                        </div>
+                        <p class="col 6"><font size="1">Please start with non-zero numbers for your membership number. For example
+    "1234567" instead of "001234567".</font></p>
+                        <div class="row">
+                        <div class="col l6">
+                        <label><font size="5">Country</font></label>
+                        <% include partials/country_dropdown %>
+                        </div>
+                        </div>
+                        <div class="row">
+                     <button class="waves-effect waves-light offset-s2 light-blue accent-4 btn" style='margin-left: 40%; margin-top: 10px;'>Submit</button></div>
+                    </form>
+            </div>
+            <div class="divider"></div>
+            <div class="row">
+                <h3 class="col l5 m5 s12">Register as <br> Non-IWA Member or Student</h3>
+                    <form class="col l7 m7 s12" id="non_mem_register" action="/register/non_member" method="post" enctype="multipart/form-data">
+                        <div class="row">
+                        <div class="col l6">
+                        <label><font size="5">Country</font></label>
+                        <% include partials/country_dropdown %>
+                        </div>
+                        <div class="col l6">
+                            <p>
+      <input name="group1" type="radio" value="student" id="student" />
+      <label for="student">Student</label>
+    </p>
+    <p>
+      <input name="group1" type="radio" value="non_student" id="non_student" />
+      <label for="non_student">Non-Student</label>
+    </p>
+                        </div>
+                         <button class="waves-effect waves-light offset-s2 light-blue accent-4 btn" style='margin-left: 40%; margin-top: 10px;'>Submit</button>
+                    </form>
+                </div>
+            </div>
+        </main>
+        <% include partials/footer %>
+    </body>

@@ -1,0 +1,30 @@
+<div id="modal1" class="modal">
+	<div class="modal-content">
+		<h4>Add Review Form</h4>
+		<div class="row">
+			<form class="col s12" id="add_review_form" action="/submit/extended_abstract_review" method="post" enctype="multipart/form-data">
+				<div class="row">
+					<div class="input-field col s6">
+						<input placeholder="" name="abstract_id" id="abstract_id" type="number" class="validate">
+						<label for="first_name">Abstract ID</label>
+					</div>
+				</div>
+				<div class="row">
+					<div class="file-field input-field col s6">
+						<div class="btn">
+							<span>File</span>
+							<input type="file" name="review_form" required>
+						</div>
+						<div class="file-path-wrapper">
+							<input class="file-path validate" type="text">
+						</div>
+					</div>
+				</div>
+				<button class="waves-effect waves-light offset-s2 light-blue accent-4 btn" style='margin-left: 40%'>Submit</button>
+			</form>
+		</div>
+		<div class="modal-footer">
+			<a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
+		</div>
+	</div>
+</div>

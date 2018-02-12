@@ -1,0 +1,32 @@
+/*
+2017-04-05 10:36:05.878 PDT
+ERROR: duplicate key value violates unique constraint "countries_pkey"
+  Detail: Key (country_name)=(India) already exists.*/
+
+INSERT INTO countries (country_name, class)
+     VALUES ('India', 'lic');
+
+/*
+The record was updated with the following query
+*/
+
+UPDATE countries
+   SET class = 'lic'
+ WHERE country_name = 'India';
+
+/*
+2017-04-05 10:36:30.313 PDT
+ERROR: duplicate key value violates unique constraint "countries_pkey"
+  Detail: Key (country_name)=(Zimbabwe) already exists.*/
+
+INSERT INTO countries (country_name, class)
+     VALUES ('Zimbabwe', 'lic');
+
+/*
+The record was updated with the following query
+*/
+
+UPDATE countries
+   SET class = 'lic'
+ WHERE country_name = 'Zimbabwe';
+

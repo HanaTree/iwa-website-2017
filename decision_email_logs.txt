@@ -1,0 +1,777 @@
+SENDGRID_HELPER: Sending Decision Email To Dr. Kram
+SENDGRID_HELPER: Sending Decision Email To Dr. Cha
+SENDGRID_HELPER: Sending Decision Email To Dr. Liu
+SENDGRID_HELPER: Sending Decision Email To Mr. 何
+SENDGRID_HELPER: Sending Decision Email To Dr. Ortiz
+SENDGRID_HELPER: Sending Decision Email To Ms. Park
+SENDGRID_HELPER: Sending Decision Email To Ms. Kim
+SENDGRID_HELPER: Sending Decision Email To Dr. Ko
+SENDGRID_HELPER: Sending Decision Email To Dr. Lee
+SENDGRID_HELPER: Sending Decision Email To Mr. Mendoza
+SENDGRID_HELPER: Sending Decision Email To Dr. Ortiz
+SENDGRID_HELPER: Sending Decision Email To Prof. Hellweger
+SENDGRID_HELPER: Sending Decision Email To Dr. Ayache
+SENDGRID_HELPER: Sending Decision Email To Prof. Cho
+SENDGRID_HELPER: Sending Decision Email To Prof. Seo
+SENDGRID_HELPER: Sending Decision Email To Dr. Tran
+SENDGRID_HELPER: Sending Decision Email To Dr. Zoboli
+SENDGRID_HELPER: Sending Decision Email To Mrs. Lampola
+SENDGRID_HELPER: Sending Decision Email To Dr. Tran
+SENDGRID_HELPER: Sending Decision Email To Dr. Wu
+SENDGRID_HELPER: Sending Decision Email To Dr. Zheng
+SENDGRID_HELPER: Sending Decision Email To Dr. Shin
+SENDGRID_HELPER: Sending Decision Email To Prof. Fan
+SENDGRID_HELPER: Sending Decision Email To Mr. Baek
+SENDGRID_HELPER: Sending Decision Email To Mr. Kim
+SENDGRID_HELPER: Sending Decision Email To Mr. Yu
+SENDGRID_HELPER: Sending Decision Email To Dr. Ou
+SENDGRID_HELPER: Sending Decision Email To Dr. Ou
+SENDGRID_HELPER: Sending Decision Email To Mr. Hong
+SENDGRID_HELPER: Sending Decision Email To Dr. Kan
+SENDGRID_HELPER: Sending Decision Email To Prof. Khan
+SENDGRID_HELPER: Sending Decision Email To Dr. Ahiablame
+SENDGRID_HELPER: Sending Decision Email To Prof. Novotny
+SENDGRID_HELPER: Sending Decision Email To Mr. Dai
+SENDGRID_HELPER: Sending Decision Email To Prof. Zhou
+SENDGRID_HELPER: Sending Decision Email To Ms. Wang
+SENDGRID_HELPER: Sending Decision Email To Mrs. Yang
+SENDGRID_HELPER: Sending Decision Email To Ms. Mosase
+SENDGRID_HELPER: Sending Decision Email To Dr. Paule-mercado
+SENDGRID_HELPER: Sending Decision Email To Ms. Guerra
+SENDGRID_HELPER: Sending Decision Email To Dr. Paule-mercado
+SENDGRID_HELPER: Sending Decision Email To Dr. Cuadrado-quesada
+SENDGRID_HELPER: Sending Decision Email To Mr. Seo
+SENDGRID_HELPER: Sending Decision Email To Dr. Yun
+SENDGRID_HELPER: Sending Decision Email To Dr. Miura
+SENDGRID_HELPER: Sending Decision Email To Prof. Nakashita
+SENDGRID_HELPER: Sending Decision Email To Prof. Lee
+SENDGRID_HELPER: Sending Decision Email To Prof. Lee
+SENDGRID_HELPER: Sending Decision Email To Dr. Zoh
+SENDGRID_HELPER: Sending Decision Email To Prof. Kim
+SENDGRID_HELPER: Sending Decision Email To Prof. Lei
+SENDGRID_HELPER: Sending Decision Email To Dr. Joseph
+SENDGRID_HELPER: Sending Decision Email To Dr. Ortiz
+SENDGRID_HELPER: Sending Decision Email To Dr. Dan'azumi
+SENDGRID_HELPER: Sending Decision Email To Dr. Afrooz
+SENDGRID_HELPER: Sending Decision Email To Dr. Dorsey
+SENDGRID_HELPER: Sending Decision Email To Dr. Nam
+SENDGRID_HELPER: Sending Decision Email To Dr. Kolodziej
+SENDGRID_HELPER: Sending Decision Email To Mr. Sun
+SENDGRID_HELPER: Sending Decision Email To Ms. Ndlela
+SENDGRID_HELPER: Sending Decision Email To Dr. Hsu
+SENDGRID_HELPER: Sending Decision Email To Mr. Yuan
+SENDGRID_HELPER: Sending Decision Email To Prof. Hwang
+SENDGRID_HELPER: Sending Decision Email To Dr. Garneau
+SENDGRID_HELPER: Sending Decision Email To Ms. Yoon
+SENDGRID_HELPER: Sending Decision Email To Dr. Park
+SENDGRID_HELPER: Sending Decision Email To Mr. Mbabazi
+SENDGRID_HELPER: Sending Decision Email To Mr. Im
+SENDGRID_HELPER: Sending Decision Email To Dr. Kwon
+SENDGRID_HELPER: Sending Decision Email To Dr. Lee
+SENDGRID_HELPER: Sending Decision Email To Dr. Miao
+SENDGRID_HELPER: Sending Decision Email To Dr. Zhao
+SENDGRID_HELPER: Sending Decision Email To Prof. Khan
+SENDGRID_HELPER: Sending Decision Email To Prof. Alp
+SENDGRID_HELPER: Sending Decision Email To Dr. Choi
+SENDGRID_HELPER: Sending Decision Email To Mr. Youngsu
+SENDGRID_HELPER: Sending Decision Email To Dr. Rahbeh
+SENDGRID_HELPER: Sending Decision Email To Mr. Liptan
+SENDGRID_HELPER: Sending Decision Email To Prof. Costa Castro
+SENDGRID_HELPER: Sending Decision Email To Dr. Xiaozhi
+SENDGRID_HELPER: Sending Decision Email To Prof. Gil
+SENDGRID_HELPER: Sending Decision Email To Dr. Wei
+SENDGRID_HELPER: Sending Decision Email To Mr. Kim
+SENDGRID_HELPER: Sending Decision Email To Dr. Zhang
+SENDGRID_HELPER: Sending Decision Email To Prof. Li
+SENDGRID_HELPER: Sending Decision Email To Dr. Ervin
+SENDGRID_HELPER: Sending Decision Email To Dr. Zhang
+SENDGRID_HELPER: Sending Decision Email To Dr. Uuemaa
+SENDGRID_HELPER: Sending Decision Email To Mr. Jeon
+SENDGRID_HELPER: Sending Decision Email To Dr. Kmoch
+SENDGRID_HELPER: Sending Decision Email To Dr. Abdullah
+SENDGRID_HELPER: Sending Decision Email To Mr. Kim
+SENDGRID_HELPER: Sending Decision Email To Dr. Hyunkoo
+SENDGRID_HELPER: Sending Decision Email To Mr. Morisawa
+SENDGRID_HELPER: Sending Decision Email To Prof. Xu
+SENDGRID_HELPER: Sending Decision Email To Dr. Dai
+SENDGRID_HELPER: Sending Decision Email To Prof. Chen
+SENDGRID_HELPER: Sending Decision Email To Ms. Wei
+SENDGRID_HELPER: Sending Decision Email To Mr. Sim
+SENDGRID_HELPER: Sending Decision Email To Prof. Kaining
+SENDGRID_HELPER: Sending Decision Email To Mr. Kim
+SENDGRID_HELPER: Sending Decision Email To Mr. Wang
+SENDGRID_HELPER: Sending Decision Email To Dr. Shivakoti
+SENDGRID_HELPER: Sending Decision Email To Ms. Lee
+SENDGRID_HELPER: Sending Decision Email To Dr. Xia
+SENDGRID_HELPER: Sending Decision Email To Mr. Jeong
+SENDGRID_HELPER: Sending Decision Email To Mr. Gurung
+SENDGRID_HELPER: Sending Decision Email To Ms. Yoon
+SENDGRID_HELPER: Sending Decision Email To Ms. Feng
+SENDGRID_HELPER: Sending Decision Email To Mr. Kang
+SENDGRID_HELPER: Sending Decision Email To Mr. Alihan
+SENDGRID_HELPER: Sending Decision Email To Mr. Alihan
+SENDGRID_HELPER: Sending Decision Email To Prof. Sobral
+SENDGRID_HELPER: Sending Decision Email To Prof. Sobral
+SENDGRID_HELPER: Sending Decision Email To Mr. Park
+SENDGRID_HELPER: Sending Decision Email To Dr. Ghashghaie
+SENDGRID_HELPER: Sending Decision Email To Ms. Otto
+SENDGRID_HELPER: Sending Decision Email To Mr. Chow
+SENDGRID_HELPER: Sending Decision Email To Ms. Newman
+SENDGRID_HELPER: Sending Decision Email To Prof. Bravo-inclán
+SENDGRID_HELPER: Sending Decision Email To Mr. Azotea
+SENDGRID_HELPER: Sending Decision Email To Dr. Mckee
+SENDGRID_HELPER: Sending Decision Email To Dr. Hsu
+SENDGRID_HELPER: Sending Decision Email To Dr. Hsu
+SENDGRID_HELPER: Sending Decision Email To Ms. Flores
+SENDGRID_HELPER: Sending Decision Email To Prof. Maeng
+SENDGRID_HELPER: Sending Decision Email To Dr. Kunkel
+SENDGRID_HELPER: Sending Decision Email To Prof. Komai
+SENDGRID_HELPER: Sending Decision Email To Prof. Trcek
+SENDGRID_HELPER: Sending Decision Email To Prof. Chunhui
+SENDGRID_HELPER: Sending Decision Email To Dr. Tanner
+SENDGRID_HELPER: Sending Decision Email To Mr. Skinner
+SENDGRID_HELPER: Sending Decision Email To Mrs. Avaz
+SENDGRID_HELPER: Sending Decision Email To Mr. Jeon
+SENDGRID_HELPER: Sending Decision Email To Dr. Zhao
+SENDGRID_HELPER: Sending Decision Email To Prof. Pitt
+SENDGRID_HELPER: Sending Decision Email To Ms. Chan
+SENDGRID_HELPER: Sending Decision Email To Mr. Schiff
+SENDGRID_HELPER: Sending Decision Email To Dr. Nakajima
+SENDGRID_HELPER: Sending Decision Email To Dr. Oh
+SENDGRID_HELPER: Sending Decision Email To Ms. Lee
+SENDGRID_HELPER: Sending Decision Email To Dr. Su
+SENDGRID_HELPER: Sending Decision Email To Dr. Gorgoglione
+SENDGRID_HELPER: Sending Decision Email To Ms. Lee
+SENDGRID_HELPER: Sending Decision Email To Dr. Jiang
+SENDGRID_HELPER: Sending Decision Email To Ms. Gallagher
+SENDGRID_HELPER: Sending Decision Email To Prof. Ha
+SENDGRID_HELPER: Sending Decision Email To Mr. Schiff
+SENDGRID_HELPER: Sending Decision Email To Ms. Risch
+SENDGRID_HELPER: Sending Decision Email To Dr. Rosenfeldt
+SENDGRID_HELPER: Sending Decision Email To Prof. Nishikawa
+SENDGRID_HELPER: Sending Decision Email To Dr. Horner
+SENDGRID_HELPER: Sending Decision Email To Dr. Venohr
+SENDGRID_HELPER: Sending Decision Email To Mrs. Blicher-mathiesen
+SENDGRID_HELPER: Sending Decision Email To Ms. Hong
+SENDGRID_HELPER: Sending Decision Email To Ms. Choi
+SENDGRID_HELPER: Sending Decision Email To Mr. Geronimo
+SENDGRID_HELPER: Sending Decision Email To Ms. Glaister
+SENDGRID_HELPER: Sending Decision Email To Ms. Leeq
+SENDGRID_HELPER: Sending Decision Email To Dr. Wang
+SENDGRID_HELPER: Sending Decision Email To Dr. Directo-cebujano
+SENDGRID_HELPER: Sending Decision Email To Ms. Lee
+SENDGRID_HELPER: Sending Decision Email To Dr. Liu
+SENDGRID_HELPER: Sending Decision Email To Prof. Kim
+SENDGRID_HELPER: Sending Decision Email To Mr. Yoonsoo
+SENDGRID_HELPER: Sending Decision Email To Prof. Furumai
+SENDGRID_HELPER: Sending Decision Email To Ms. Glickfeld
+SENDGRID_HELPER: Sending Decision Email To Ms. Mengyu
+SENDGRID_HELPER: Sending Decision Email To Prof. Ichiki
+SENDGRID_HELPER: Sending Decision Email To Dr. Chinen
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Liu - liuan@szu.edu.cn
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. 何 - heguohua010@163.com
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Hellweger - fhellweger@gmail.com
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Ayache - laabassiayache@gmail.com
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Seo - seodi@cnu.ac.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Tran - tranhan79@gmail.com
+SENDGRID_HELPER: Extended Abstract Email sent to Mrs. Lampola - tiia.lampola@hsy.fi
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Yu - isyu@kongju.ac.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Kan - kanguangyuan@126.com
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Zhou - zhouyanbo@ecust.edu.cn
+SENDGRID_HELPER: Extended Abstract Email sent to Ms. Guerra - heidibguerra@office.hanseo.ac.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Miura - amiura@u-fukui.ac.jp
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Kim - hoikim@pknu.ac.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Dan'azumi - sdanazumi.civ@buk.edu.ng
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Wang - 201511180156@mail.bnu.edu.cn
+{ SendGridError: Response error
+    at /app/node_modules/sendgrid/lib/sendgrid.js:115:19
+    at IncomingMessage.<anonymous> (/app/node_modules/sendgrid-rest/lib/client.js:108:9)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  message: 'Response error',
+  response:
+   { statusCode: 415,
+     body: { errors: [Object] },
+     headers:
+      { server: 'nginx',
+        date: 'Sat, 29 Apr 2017 02:20:13 GMT',
+        'content-type': 'application/json',
+        'content-length': '92',
+        connection: 'close',
+        'x-frame-options': 'DENY',
+        'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+        'access-control-allow-methods': 'POST',
+        'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+        'access-control-max-age': '600',
+        'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html' } } }
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Alp - emrealp@metu.edu.tr
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Yuan - ysqskw@gmail.com
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Joseph - jsabu2000@gmail.com
+SENDGRID_HELPER: Extended Abstract Email sent to Ms. Otto - mmotto@geosyntec.com
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Zoboli - ozoboli@iwag.tuwien.ac.at
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Zoh - zohkd@snu.ac.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Dai - kelly_dai_ying@sina.com
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Youngsu - jysone@nate.com
+SENDGRID_HELPER: Extended Abstract Email sent to Ms. Hong - jungsun518@kongju.ac.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Li - xyli@rcees.ac.cn
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Ha - simplet@cbnu.ac.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Liptan - TLIPTAN@MSN.COM
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Lei - ltj348@126.com
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Liu - liurm@bnu.edu.cn
+SENDGRID_HELPER: Extended Abstract Email sent to Ms. Newman - jenny.newman@waterboards.ca.gov
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Zheng - guangming.zheng@noaa.gov
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Xiaozhi - guxiaozhi@163.com
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Ortiz - nortizbr@gmail.com
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Geronimo - fkgeronimo@kongju.ac.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Wei - llwei@iue.ac.cn
+{ SendGridError: Response error
+    at /app/node_modules/sendgrid/lib/sendgrid.js:115:19
+    at IncomingMessage.<anonymous> (/app/node_modules/sendgrid-rest/lib/client.js:108:9)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  message: 'Response error',
+  response:
+   { statusCode: 415,
+     body: { errors: [Object] },
+     headers:
+      { server: 'nginx',
+        date: 'Sat, 29 Apr 2017 02:20:13 GMT',
+        'content-type': 'application/json',
+        'content-length': '92',
+        connection: 'close',
+        'x-frame-options': 'DENY',
+        'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+        'access-control-allow-methods': 'POST',
+        'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+        'access-control-max-age': '600',
+        'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html' } } }
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Afrooz - rnabiul@stanford.edu
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Jeon - djjeon@gist.ac.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Ms. Flores - preciousedflores@gmail.com
+{ SendGridError: Response error
+    at /app/node_modules/sendgrid/lib/sendgrid.js:115:19
+    at IncomingMessage.<anonymous> (/app/node_modules/sendgrid-rest/lib/client.js:108:9)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  message: 'Response error',
+  response:
+   { statusCode: 415,
+     body: { errors: [Object] },
+     headers:
+      { server: 'nginx',
+        date: 'Sat, 29 Apr 2017 02:20:13 GMT',
+        'content-type': 'application/json',
+        'content-length': '92',
+        connection: 'close',
+        'x-frame-options': 'DENY',
+        'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+        'access-control-allow-methods': 'POST',
+        'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+        'access-control-max-age': '600',
+        'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html' } } }
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Ervin - jervin@geosyntec.com
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Nam - namsn76@gmail.com
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Ou - ouyang@iga.ac.cn
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Uuemaa - evelyn.uuemaa@ut.ee
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Sun - f556sun@gmail.com
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Kmoch - a.kmoch@gns.cri.nz
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Hyunkoo - khk228@korea.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Kim - bumjo@gist.ac.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Khan - eakalak.khan@ndsu.edu
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Xu - xujingtao@sdjzu.edu.cn
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Morisawa - element.eagle1024@gmail.com
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Hwang - hwangh@tsu.edu
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Novotny - v.novotny@comcast.net
+SENDGRID_HELPER: Extended Abstract Email sent to Mrs. Avaz - gulsen.avaz@tubitak.gov.tr
+SENDGRID_HELPER: Extended Abstract Email sent to Ms. Wei - weitong1992@163.com
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Chen - chenlei1982bnu@bnu.edu.cn
+SENDGRID_HELPER: Extended Abstract Email sent to Ms. Yoon - yoonsaerom90@gmail.com
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Jeong - gua01114@gist.ac.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Ms. Chan - pshazz@ucla.edu
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Rahbeh - m.rahbeh@ju.edu.jo
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Sim - hyunwoo@jbnu.ac.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Mbabazi - m145505@edu.tut.ac.jp
+{ SendGridError: Response error
+    at /app/node_modules/sendgrid/lib/sendgrid.js:115:19
+    at IncomingMessage.<anonymous> (/app/node_modules/sendgrid-rest/lib/client.js:108:9)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  message: 'Response error',
+  response:
+   { statusCode: 415,
+     body: { errors: [Object] },
+     headers:
+      { server: 'nginx',
+        date: 'Sat, 29 Apr 2017 02:20:13 GMT',
+        'content-type': 'application/json',
+        'content-length': '92',
+        connection: 'close',
+        'x-frame-options': 'DENY',
+        'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+        'access-control-allow-methods': 'POST',
+        'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+        'access-control-max-age': '600',
+        'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html' } } }
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Zhao - htzhao@rcees.ac.cn
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Kim - jinhwi25@naver.com
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Kwon - hunkah@naver.com
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Costa Castro - mariliarcastro@uol.com.br
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Shivakoti - shivakoti@iges.or.jp
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Nakajima - nakajima@env.t.u-tokyo.ac.jp
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Miao - miaolei2819@emails.bjut.edu.cn
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Alihan - jaoalihan@kongju.ac.kr
+{ SendGridError: Response error
+    at /app/node_modules/sendgrid/lib/sendgrid.js:115:19
+    at IncomingMessage.<anonymous> (/app/node_modules/sendgrid-rest/lib/client.js:108:9)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  message: 'Response error',
+  response:
+   { statusCode: 415,
+     body: { errors: [Object] },
+     headers:
+      { server: 'nginx',
+        date: 'Sat, 29 Apr 2017 02:20:13 GMT',
+        'content-type': 'application/json',
+        'content-length': '92',
+        connection: 'close',
+        'x-frame-options': 'DENY',
+        'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+        'access-control-allow-methods': 'POST',
+        'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+        'access-control-max-age': '600',
+        'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html' } } }
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Xia - xiayf@zjweu.edu.cn
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Khan - eakalak.khan@ndsu.edu
+SENDGRID_HELPER: Extended Abstract Email sent to Ms. Lee - bokjinlee@kict.re.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Sobral - mariadocarmo.sobral@gmail.com
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Gorgoglione - agorgoglione@ucdavis.edu
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Bravo-inclán - lubravo@tlaloc.imta.mx
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Gurung - gurunsb@kongju.ac.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Chow - nchow@luskin.ucla.edu
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Mckee - lester@sfei.org
+SENDGRID_HELPER: Extended Abstract Email sent to Ms. Feng - patricia_feng@126.com
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Alihan - jaoalihan@kongju.ac.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Sobral - mariadocarmo.sobral@gmail.com
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Chunhui - chunhuili@bnu.edu.cn
+{ SendGridError: Response error
+    at /app/node_modules/sendgrid/lib/sendgrid.js:115:19
+    at IncomingMessage.<anonymous> (/app/node_modules/sendgrid-rest/lib/client.js:108:9)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  message: 'Response error',
+  response:
+   { statusCode: 415,
+     body: { errors: [Object] },
+     headers:
+      { server: 'nginx',
+        date: 'Sat, 29 Apr 2017 02:20:13 GMT',
+        'content-type': 'application/json',
+        'content-length': '92',
+        connection: 'close',
+        'x-frame-options': 'DENY',
+        'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+        'access-control-allow-methods': 'POST',
+        'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+        'access-control-max-age': '600',
+        'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html' } } }
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Pitt - rpitt@eng.ua.edu
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Schiff - kens@sccwrp.org
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Oh - hcoh79@kict.re.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Su - jjsu@rcees.ac.cn
+SENDGRID_HELPER: Extended Abstract Email sent to Ms. Lee - career03@hotmail.com
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Rosenfeldt - erosenfeldt@hazenandsawyer.com
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Horner - rrhorner@u.washington.edu
+SENDGRID_HELPER: Extended Abstract Email sent to Ms. Choi - hyeseon27@kongju.ac.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Mrs. Blicher-mathiesen - gbm@bios.au.dk
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Wang - wangyawei@rcees.ac.cn
+{ SendGridError: Response error
+    at /app/node_modules/sendgrid/lib/sendgrid.js:115:19
+    at IncomingMessage.<anonymous> (/app/node_modules/sendgrid-rest/lib/client.js:108:9)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  message: 'Response error',
+  response:
+   { statusCode: 415,
+     body: { errors: [Object] },
+     headers:
+      { server: 'nginx',
+        date: 'Sat, 29 Apr 2017 02:20:13 GMT',
+        'content-type': 'application/json',
+        'content-length': '92',
+        connection: 'close',
+        'x-frame-options': 'DENY',
+        'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+        'access-control-allow-methods': 'POST',
+        'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+        'access-control-max-age': '600',
+        'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html' } } }
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Ou - ouyang@iga.ac.cn
+{ SendGridError: Response error
+    at /app/node_modules/sendgrid/lib/sendgrid.js:115:19
+    at IncomingMessage.<anonymous> (/app/node_modules/sendgrid-rest/lib/client.js:108:9)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  message: 'Response error',
+  response:
+   { statusCode: 415,
+     body: { errors: [Object] },
+     headers:
+      { server: 'nginx',
+        date: 'Sat, 29 Apr 2017 02:20:13 GMT',
+        'content-type': 'application/json',
+        'content-length': '92',
+        connection: 'close',
+        'x-frame-options': 'DENY',
+        'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+        'access-control-allow-methods': 'POST',
+        'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+        'access-control-max-age': '600',
+        'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html' } } }
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Garneau - cyril.garneau.1@ulaval.ca
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Park - narjjis@hanmail.net
+{ SendGridError: Response error
+    at /app/node_modules/sendgrid/lib/sendgrid.js:115:19
+    at IncomingMessage.<anonymous> (/app/node_modules/sendgrid-rest/lib/client.js:108:9)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  message: 'Response error',
+  response:
+   { statusCode: 415,
+     body: { errors: [Object] },
+     headers:
+      { server: 'nginx',
+        date: 'Sat, 29 Apr 2017 02:20:13 GMT',
+        'content-type': 'application/json',
+        'content-length': '92',
+        connection: 'close',
+        'x-frame-options': 'DENY',
+        'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+        'access-control-allow-methods': 'POST',
+        'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+        'access-control-max-age': '600',
+        'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html' } } }
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Lee - yhlee@dsi.re.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Zhao - zhaocongcong1009@163.com
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Chinen - kazuechinen@g.ucla.edu
+SENDGRID_HELPER: Extended Abstract Email sent to Ms. Mengyu - zhangmengyu2010@sina.com
+{ SendGridError: Response error
+    at /app/node_modules/sendgrid/lib/sendgrid.js:115:19
+    at IncomingMessage.<anonymous> (/app/node_modules/sendgrid-rest/lib/client.js:108:9)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  message: 'Response error',
+  response:
+   { statusCode: 415,
+     body: { errors: [Object] },
+     headers:
+      { server: 'nginx',
+        date: 'Sat, 29 Apr 2017 02:20:13 GMT',
+        'content-type': 'application/json',
+        'content-length': '92',
+        connection: 'close',
+        'x-frame-options': 'DENY',
+        'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+        'access-control-allow-methods': 'POST',
+        'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+        'access-control-max-age': '600',
+        'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html' } } }
+{ SendGridError: Response error
+    at /app/node_modules/sendgrid/lib/sendgrid.js:115:19
+    at IncomingMessage.<anonymous> (/app/node_modules/sendgrid-rest/lib/client.js:108:9)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  message: 'Response error',
+  response:
+   { statusCode: 415,
+     body: { errors: [Object] },
+     headers:
+      { server: 'nginx',
+        date: 'Sat, 29 Apr 2017 02:20:13 GMT',
+        'content-type': 'application/json',
+        'content-length': '92',
+        connection: 'close',
+        'x-frame-options': 'DENY',
+        'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+        'access-control-allow-methods': 'POST',
+        'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+        'access-control-max-age': '600',
+        'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html' } } }
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Ichiki - a-ichiki@se.ritsumei.ac.jp
+SENDGRID_HELPER: Extended Abstract Email sent to Ms. Glaister - bonnie.glaister@monash.edu
+{ SendGridError: Response error
+    at /app/node_modules/sendgrid/lib/sendgrid.js:115:19
+    at IncomingMessage.<anonymous> (/app/node_modules/sendgrid-rest/lib/client.js:108:9)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  message: 'Response error',
+  response:
+   { statusCode: 415,
+     body: { errors: [Object] },
+     headers:
+      { server: 'nginx',
+        date: 'Sat, 29 Apr 2017 02:20:13 GMT',
+        'content-type': 'application/json',
+        'content-length': '92',
+        connection: 'close',
+        'x-frame-options': 'DENY',
+        'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+        'access-control-allow-methods': 'POST',
+        'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+        'access-control-max-age': '600',
+        'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html' } } }
+SENDGRID_HELPER: Extended Abstract Email sent to Ms. Leeq - mengchenlee1101@gmail.com
+SENDGRID_HELPER: Extended Abstract Email sent to Ms. Glickfeld - madelyn.glickfeld@ioes.ucla.edu
+{ SendGridError: Response error
+    at /app/node_modules/sendgrid/lib/sendgrid.js:115:19
+    at IncomingMessage.<anonymous> (/app/node_modules/sendgrid-rest/lib/client.js:108:9)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  message: 'Response error',
+  response:
+   { statusCode: 415,
+     body: { errors: [Object] },
+     headers:
+      { server: 'nginx',
+        date: 'Sat, 29 Apr 2017 02:20:13 GMT',
+        'content-type': 'application/json',
+        'content-length': '92',
+        connection: 'close',
+        'x-frame-options': 'DENY',
+        'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+        'access-control-allow-methods': 'POST',
+        'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+        'access-control-max-age': '600',
+        'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html' } } }
+{ SendGridError: Response error
+    at /app/node_modules/sendgrid/lib/sendgrid.js:115:19
+    at IncomingMessage.<anonymous> (/app/node_modules/sendgrid-rest/lib/client.js:108:9)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  message: 'Response error',
+  response:
+   { statusCode: 415,
+     body: { errors: [Object] },
+     headers:
+      { server: 'nginx',
+        date: 'Sat, 29 Apr 2017 02:20:13 GMT',
+        'content-type': 'application/json',
+        'content-length': '92',
+        connection: 'close',
+        'x-frame-options': 'DENY',
+        'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+        'access-control-allow-methods': 'POST',
+        'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+        'access-control-max-age': '600',
+        'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html' } } }
+{ SendGridError: Response error
+    at /app/node_modules/sendgrid/lib/sendgrid.js:115:19
+    at IncomingMessage.<anonymous> (/app/node_modules/sendgrid-rest/lib/client.js:108:9)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  message: 'Response error',
+  response:
+   { statusCode: 415,
+     body: { errors: [Object] },
+     headers:
+      { server: 'nginx',
+        date: 'Sat, 29 Apr 2017 02:20:13 GMT',
+        'content-type': 'application/json',
+        'content-length': '92',
+        connection: 'close',
+        'x-frame-options': 'DENY',
+        'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+        'access-control-allow-methods': 'POST',
+        'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+        'access-control-max-age': '600',
+        'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html' } } }
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Schiff - kens@sccwrp.org
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Directo-cebujano  - malou_directo@yahoo.com
+SENDGRID_HELPER: Extended Abstract Email sent to Ms. Wang - ywang@iue.ac.cn
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Cha - ichamini21@gmail.com
+SENDGRID_HELPER: Extended Abstract Email sent to Mrs. Yang - yzx_1009@sina.com
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Nishikawa - knishika@tamacc.chuo-u.ac.jp
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Azotea - marcazotea@kongju.ac.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Hsu - chsu@gsienv.com
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Hsu - chsu@gsienv.com
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Trcek - branka.trcek@um.si
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Lee - bravo281@hanmail.net
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Furumai - furumai@env.t.u-tokyo.ac.jp
+{ SendGridError: Response error
+    at /app/node_modules/sendgrid/lib/sendgrid.js:115:19
+    at IncomingMessage.<anonymous> (/app/node_modules/sendgrid-rest/lib/client.js:108:9)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  message: 'Response error',
+  response:
+   { statusCode: 415,
+     body: { errors: [Object] },
+     headers:
+      { server: 'nginx',
+        date: 'Sat, 29 Apr 2017 02:20:13 GMT',
+        'content-type': 'application/json',
+        'content-length': '92',
+        connection: 'close',
+        'x-frame-options': 'DENY',
+        'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+        'access-control-allow-methods': 'POST',
+        'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+        'access-control-max-age': '600',
+        'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html' } } }
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Zhang - zhonglong.zhang@erdc.dren.mil
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Tanner - c.tanner@niwa.co.nz
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Cho - kangwoo.cho82@gmail.com
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Kaining - knchen@niglas.ac.cn
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Kang - kangseju@snu.ac.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Dai - daizeeqin@seu.edu.cn
+SENDGRID_HELPER: Extended Abstract Email sent to Ms. Park - juhyun1045@gmail.com
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Choi - yeonjichoi@korea.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Lee - jlee@ut.ac.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Hong - superkick701@naver.com
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Ortiz - nortizbr@gmail.com
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Baek - alliesband@hanmail.net
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Venohr - m.venohr@igb-berlin.de
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Abdullah - khadeejaabdullah@gmail.com
+{ SendGridError: Response error
+    at /app/node_modules/sendgrid/lib/sendgrid.js:115:19
+    at IncomingMessage.<anonymous> (/app/node_modules/sendgrid-rest/lib/client.js:108:9)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  message: 'Response error',
+  response:
+   { statusCode: 415,
+     body: { errors: [Object] },
+     headers:
+      { server: 'nginx',
+        date: 'Sat, 29 Apr 2017 02:20:13 GMT',
+        'content-type': 'application/json',
+        'content-length': '92',
+        connection: 'close',
+        'x-frame-options': 'DENY',
+        'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+        'access-control-allow-methods': 'POST',
+        'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+        'access-control-max-age': '600',
+        'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html' } } }
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Jeon - minsu91@kongju.ac.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Mr. Skinner - kris.skinner@gmail.com
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Jiang - yanjiang@rcees.ac.cn
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Kunkel - r.kunkel@fz-juelich.de
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Paule-mercado - mcapaule@mju.ac.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Ms. Mosase - esther.mosase@sdstate.edu
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Ahiablame - laurent.ahiablame@sdstate.edu
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Wu - lwu@nwsuaf.edu.cn
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Lee - jlee@ut.ac.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Kolodziej - koloj@uw.edu
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Paule-mercado - mcapaule@mju.ac.kr
+{ SendGridError: Response error
+    at /app/node_modules/sendgrid/lib/sendgrid.js:115:19
+    at IncomingMessage.<anonymous> (/app/node_modules/sendgrid-rest/lib/client.js:108:9)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  message: 'Response error',
+  response:
+   { statusCode: 415,
+     body: { errors: [Object] },
+     headers:
+      { server: 'nginx',
+        date: 'Sat, 29 Apr 2017 02:20:13 GMT',
+        'content-type': 'application/json',
+        'content-length': '92',
+        connection: 'close',
+        'x-frame-options': 'DENY',
+        'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+        'access-control-allow-methods': 'POST',
+        'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+        'access-control-max-age': '600',
+        'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html' } } }
+{ SendGridError: Response error
+    at /app/node_modules/sendgrid/lib/sendgrid.js:115:19
+    at IncomingMessage.<anonymous> (/app/node_modules/sendgrid-rest/lib/client.js:108:9)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  message: 'Response error',
+  response:
+   { statusCode: 415,
+     body: { errors: [Object] },
+     headers:
+      { server: 'nginx',
+        date: 'Sat, 29 Apr 2017 02:20:13 GMT',
+        'content-type': 'application/json',
+        'content-length': '92',
+        connection: 'close',
+        'x-frame-options': 'DENY',
+        'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+        'access-control-allow-methods': 'POST',
+        'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+        'access-control-max-age': '600',
+        'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html' } } }
+SENDGRID_HELPER: Extended Abstract Email sent to Ms. Gallagher - e.a.gallagher@bath.ac.uk
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Dorsey - jdorsey@lmu.edu
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Cuadrado-quesada - gabriela.cuadrado.q@gmail.com
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Nakashita - nakashita@hiroshima-u.ac.jp
+SENDGRID_HELPER: Extended Abstract Email sent to Prof. Komai - yukio.komai@oit.ac.jp
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Zhang - 6241487zhang@163.com
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Tran - tranhan79@gmail.com
+SENDGRID_HELPER: Extended Abstract Email sent to Ms. Risch - eva.risch@irstea.fr
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Kram - mark.kram@groundswelltech.com
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Shin - ukdae85@kcl.re.kr
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Hsu - chris.hsu519@gmail.com
+SENDGRID_HELPER: Extended Abstract Email sent to Dr. Ortiz - nortizbr@gmail.com

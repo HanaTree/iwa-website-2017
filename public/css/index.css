@@ -1,0 +1,102 @@
+@media all and (orientation:portrait){
+	#landing {
+		background-image: url('/img/la.jpg');
+		background-repeat: no-repeat;
+		background-size: auto 100vh;
+		background-position: top ;
+		filter: brightness(2.5);
+		text-align: center;
+	}
+
+	#landing h3 {
+		font-size: 3.5em;
+	}
+
+	#landing h4 {
+		font-size: 3.5em;
+	}
+
+	#dates h1 {
+		text-align: center;
+	}
+	#dates ul {
+		text-align: center;
+	}
+
+	.speaker {
+		text-align: center;
+	}
+
+	#title {
+		padding-top: 50px;
+		border: 1px solid black;
+	}
+}
+@media all and (orientation:landscape){
+	#landing {
+		background-image: url('/img/la.jpg');
+		background-repeat: no-repeat;
+		background-size: 100vw auto;
+		filter: brightness(2.5);
+		background-position: top ;
+	}
+}
+
+#landing h3 {
+	padding-top: 15px;
+	margin: 2px 10px 0px 10px !important;
+	font-weight: 400;
+}
+#title {
+	background: rgba(0,0,0,0.6);
+	height: 100vh;
+}
+#landing h4 {
+	font-weight: 400;
+	margin: 10px !important;
+}
+.date {
+	padding-top: 30px;
+}
+
+#dates h1 {
+	font-weight: 700;
+	color: #0091ea ;
+}
+
+#dates h2{
+	display: inline-block;
+	font-weight: 500;
+	font-size: 2em;
+	border-bottom: 1px solid #00b0ff;
+	color: #00b0ff;
+}
+
+#dates p{
+	font-size: 2em;
+	margin: 0px;
+	font-weight: 200;
+}
+
+.speaker {
+	margin-top: 30px;
+}
+
+.speaker h4{
+	color: #00b0ff;
+	font-weight: 300;
+}
+
+.speaker p {
+	font-size: 1.5em;
+	font-weight: 200;
+}
+
+.speaker img {
+	max-height: 200px;
+	width: auto;
+}
+
+
+
+

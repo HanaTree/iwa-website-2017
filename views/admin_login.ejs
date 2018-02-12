@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<head>
+	<title>Admin Login - 18th IWA International Conference</title>
+	<% include partials/dependencies %>
+    <link rel="stylesheet" href="/css/common.min.css" type='text/css'>
+
+</head>
+<body >
+	<% include partials/header %>
+	<main>
+    <div class="container">
+        <h1>Administrator Portal</h1>
+        <form id="admin_login_form" action="/admin/" method="post" enctype="multipart/form-data">
+            <div class="row">
+        <div class="s12 l6"><h6 style='color:#009ee7' class="col l2">Username:</h6>
+          <p class="col l3">
+            <input name="username" type="text" id="username" required/>
+          </p>
+        </div>
+      </div>
+      <div class="row"><div class="s12 l6"><h6 style='color:#009ee7' class="col l2">Password:</h6>
+        <p class="col l3">
+          <input name="password" type="password" id="password" required/>
+        </p>
+      </div>
+    </div>
+    <button class="waves-effect waves-light  light-blue accent-4 btn">Submit</button>
+        </form>
+    </div>
+    </main>
+</body>

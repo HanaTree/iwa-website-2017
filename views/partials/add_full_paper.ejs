@@ -1,0 +1,69 @@
+	<script>
+		$(function() {
+			var id = 'add_full_paper' + <%= i %>;
+			$('#' + id).submit(function(event) {
+				console.log("SENDING FULL PAPER");
+				event.preventDefault();
+				var form = $(this);
+				var formdata = false;
+				if (window.FormData){
+					formdata = new FormData(form[0]);
+				}
+				var id = '#full_paper_submission_form' + <%= i %>; 
+				var oldHTML = $(id).html();
+				$(id).html(preloaderHTML);
+				$.ajax({
+					url         : '/submit/full_paper',
+					data        : formdata ? formdata : form.serialize(),
+					cache       : false,
+					contentType : false,
+					processData : false,
+					type        : 'POST',
+					success     : function(data){
+            			alert("Succesfully Uploaded Full Paper.");
+            			$(id).html(oldHTML);
+            			var modal = 'fp_modal' + <%= i %>;
+            			$('#' + modal).modal('close');
+            			getExtendedAbstracts();
+
+        			}
+    });
+			});
+		});
+
+	</script>
+
+	<div class="modal-content">
+		<h4>Add Full Paper Form</h4>
+		<div class="row" id="<%= 'full_paper_submission_form'+i %>">
+			<form class="col s12" id="<%= 'add_full_paper'+i %>" method='post' enctype="multipart/form-data">
+				<div class="row">
+					<div class="input-field col s6">
+						<div class="col l6"><h6>Abstract ID: </h6></div>
+						<input class="col l6" name="abstract_id" id="abstract_id"  type="number" class="validate" value="<%= response[i].abstract_id %>" readonly required>
+					</div>
+				</div>
+				<div class="row">
+					<div class="file-field input-field col s6">
+						<div class="btn">
+							<span>File</span>
+							<input type="file" name="full_paper" id="full_paper" required>
+						</div>
+						<div class="file-path-wrapper">
+							<input class="file-path validate" type="text">
+						</div>
+					</div>
+				</div>
+				<div class="row">
+						<div class="col offset-s1">
+      						<input type="checkbox" id="journal_review_option" name="journal_review_option"/>
+      						<label for="journal_review_option">Would you like to be considered for publication in the peer-reviewed journals?</label>
+      					</div>
+				</div>
+				<button class="waves-effect waves-light offset-s2 light-blue accent-4 btn" style='margin-left: 40%'>Submit</button>
+			</form>
+		</div>
+		<div class="modal-footer">
+			<a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Cancel</a>
+		</div>
+	</div>

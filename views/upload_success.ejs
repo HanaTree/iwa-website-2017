@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<head>
+	<title>Upload Success - 18th IWA International Conference</title>
+	<% include partials/dependencies %>
+    <link rel="stylesheet" href="/css/common.min.css" type='text/css'>
+
+</head>
+<body >
+	<% include partials/header %>
+	<main>
+    <div class="container">
+        <h1>Upload Success!</h1>
+        <p> Your <%= type %> has been received succesfully. You will be notified when it is reviewed. <br>
+        <h2>Submission Details</h2>
+        Submission ID: <%= id %>. <br>
+        Email Address: <%= email %> <br>
+        Abstract Title: <%= title %> <br>
+        Presentation Type: <%= presentation_type %> <br>
+        Please record this information to make changes to your submission or add a full paper submission. 
+        </p>
+    </div>
+    </main>
+  <% include partials/footer %>
+</body>

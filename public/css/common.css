@@ -1,0 +1,179 @@
+@media all and (orientation:portrait){
+	.header-img img{
+	width: auto !important;
+	height: 100%;
+}
+.header-img{
+	width: 100vw;
+	height: 40vh !important;
+	overflow: hidden;
+}
+
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+ label {
+	font-size: 1.3em !important;
+}
+
+footer .input-field.inline {
+	background-color: white !important;
+}
+
+input[type="text"]::-webkit-input-placeholder  {
+   color: black !important;
+}
+
+input:-ms-input-placeholder {
+   color: black !important;
+}
+
+input:-moz-placeholder {
+    color: black !important;
+}
+
+.credit {
+	bottom: 57vh !important;
+}
+}
+.contact-info h2{
+	text-align: -webkit-center;
+}
+
+@media all and (orientation:landscape){
+	.header-img img{
+	width: 100% ;
+}
+.header-img{
+	width: 100vw;
+	max-height: 60vh;
+	overflow: hidden;
+}
+}
+
+.input-field label.active {
+	font-size: 1.2em;
+}
+
+.level2-list {
+	font-size: 0.8em;
+	padding-left: 40px !important;
+}
+
+.level2-list li {
+	list-style-type: circle !important;
+}
+
+.level2-p {
+	text-align: -webkit-left;
+	padding-left: 40px;
+}
+
+.credit {
+	color: white;
+	position: relative;
+	bottom: 15vh;
+	left:73vw;
+}
+
+h1{
+	text-align: -webkit-center;
+	font-weight: 400;
+	color: #009ee7;
+}
+p {
+	font-size: 1.3em;
+	line-height: 2;
+}
+
+h3 {
+	text-align: -webkit-center;
+	font-weight: 300;
+	color: #0288d1;
+}
+
+.contact-info p {
+	font-size: 1.3em;
+}
+
+.container li {
+	padding-top: 15px;
+	font-size: 1.3em;
+	list-style-type: disc !important;
+}
+
+.container li ul li{
+	list-style-type: square !important;
+}
+
+li::marker {
+	color: #0288d1 !important;
+}
+input:-webkit-autofill {
+	background-color: transparent;
+}
+
+#journals{
+	margin-top: 0px !important;
+}
+
+blockquote {
+	border-left: 5px solid #0288d1;
+	font-weight: 300;
+	font-size: x-large !important;
+	font-size: large;
+	margin-bottom: 0px !important;
+}
+footer input[type=email]:focus:not([readonly])+label{
+	color: white !important;
+}
+
+.divider {
+	padding-top: 0px !important;
+}
+
+h2 {
+	color: #009ee7;
+	font-weight:300;
+}
+.carousel {
+	margin-top: 15px;
+	height: 100vh !important;
+}
+.carousel .carousel-item img{
+	height: 100%;
+	width: auto;
+}
+
+form p {
+	margin: 0px !important;
+}
+
+form h6 {
+	margin-top:12px !important;
+}
+
+form .row {
+	margin: 0px !important;
+}
+
+#admin_portal td,th {
+	font-size: 0.7em;
+}
+
+#admin_portal main {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+
+#register form{
+	padding-top: 40px;
+}

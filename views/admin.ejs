@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<head>
+	<title>Admin - 18th IWA International Conference</title>
+	<% include partials/dependencies %>
+  <link rel="stylesheet" href="/css/common.css" type='text/css'>
+</head>
+<body id="admin_portal">
+	<% include partials/header %>
+
+	<main>
+    <h1>Administrator Portal</h1>
+    <h5>Extended Abstracts</h5>
+    <a class="clear btn" href="#modal1">Add Review Form</a>
+    <% include partials/add_review_form %>
+    <a class="clear btn" id="export" href="#">Export Data to CSV</a>
+    <a class="clear btn" href="/Papers_08-09-2017.zip" download>Download Papers From Database</a>
+    
+    <div class="row">
+      <table class="col l12 highlight centered" id="extended_abstracts_table">
+        <thead>
+          <tr>
+            <% for(var i = 0; i < Object.keys(response[0]).length-5; i++) { %>
+            <td data-field="<%= Object.keys(response[0])[i] %>"><strong><%= Object.keys(response[0])[i].replace(/_/g, ' ')
+              .trim()
+              .replace(/\b[A-Z][a-z]+\b/g, function(word) {
+              return word.toLowerCase()
+            })
+            .replace(/^[a-z]/g, function(first) {
+            return first.toUpperCase()
+          }) %></strong></td> 
+
+          <% } %>
+          <td><strong>Full Paper</strong></td>
+          <td><strong>Revised EA</strong></td>
+        </tr>
+      </thead>
+
+      <tbody>
+        <% for(var i = 0; i < response.length; i++){ %>
+        <tr>
+          <% for(var j = 0; j < 20; j++){ %>
+          <td><%= response[i][String(Object.keys(response[0])[j])] %></td>
+          <% } %>
+          <td><a href="<%= response[i].abstract_file_name%>"><%= response[i].abstract_file_name%></a></td>
+          <td><% if (response[i].review_form=='NA'){%>
+            <a href="#">NA</a></td>
+            <% } else { %>
+            <a href="<%= response[i].review_form%>"><%= response[i].review_form%></a></td>
+            <% } %>
+          <td><% if (response[i].full_paper =='NA'){%>
+            <a href="#">NA</a></td>
+            <% } else { %>
+            <a href="<%= response[i].full_paper%>"><%= response[i].full_paper%></a></td>
+            <% } %>
+          <td><% if (response[i].revised_extended_abstract =='NA'){%>
+            <a href="#">NA</a></td>
+            <% } else { %>
+            <a href="<%= response[i].revised_extended_abstract%>"><%= response[i].revised_extended_abstract%></a></td>
+            <% } %>
+          </tr>
+          <% } %>
+        </tbody>
+      </table>
+    </div>
+  </main>
+</body>

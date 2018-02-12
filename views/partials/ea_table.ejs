@@ -1,0 +1,47 @@
+<p>Step 2. Add your Full Paper/Revised Extended Abstract Submissions</p>
+<table>
+	<thead>
+		<td>Abstract ID</td>
+		<td>Title</td>
+		<td>Full Paper</td>
+		<td>Revised Extended Abstract</td>
+	</thead>
+	<tbody>
+		<% for(var i = 0; i < response.length; i++) {%>
+		<tr>
+			<td><%= response[i].abstract_id %></td>
+			<td><%= response[i].abstract_title %></td>
+			<td>
+				<% if(response[i].full_paper == 'NA') { %>
+					<a class="clear btn-flat blue-text" href="#<%= 'fp_modal' + i %>">Add</a>
+					<div id="<%= 'fp_modal' + i %>" class="modal">
+						<% include add_full_paper %>
+					</div>
+				<% }  else { %>
+					<a class="clear btn-flat blue-text" href="#<%= 'fp_modal' + i %>">Change</a>
+					<div id="<%= 'fp_modal' + i %>" class="modal">
+						<% include add_full_paper %>
+					</div>
+				<% } %>
+
+			</td>
+			<td>
+				<% if(response[i].revised_extended_abstract == 'NA') { %>
+					<a class="clear btn-flat blue-text" href="#<%= 'revised_ea_modal' + i %>">Add</a>
+					<div id="<%= 'revised_ea_modal' + i %>" class="modal">
+						<% include add_revised_ea %>
+					</div>
+				<% }  else { %>
+					<a class="clear btn-flat blue-text" href="#<%= 'revised_ea_modal' + i %>">Change</a>
+					<div id="<%= 'revised_ea_modal' + i %>" class="modal">
+						<% include add_revised_ea %>
+					</div>
+				<% } %>	
+			</td>
+		</tr>
+		<% } %>
+	</tbody>
+</table>
+
+
+

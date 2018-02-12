@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<head>
+	<title>Program - 18th IWA International Conference</title>
+	<% include partials/dependencies %>
+  <link rel="stylesheet" href="/css/common.min.css" type='text/css'>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-93462907-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+  <script>
+    function validateEmail(email) {
+  var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+  return re.test(email);
+}
+    var preloaderHTML = '<div class="preloader-wrapper big active col offset-s4" id="preloader">\
+    <div class="spinner-layer spinner-blue-only">\
+      <div class="circle-clipper left">\
+        <div class="circle"></div>\
+      </div><div class="gap-patch">\
+        <div class="circle"></div>\
+      </div><div class="circle-clipper right">\
+        <div class="circle"></div>\
+      </div>\
+    </div>\
+  </div>';
+
+    var getExtendedAbstracts = function(){
+      console.log("getting extended abstracts");
+      var last_name = $('#last_name').val();
+      var email = $('#email').val();
+      if (last_name == ''){
+        alert("Please Enter Last Name");
+        return;
+      }
+      if (email == null || !validateEmail(email)){
+        alert("Please Enter A Valid Email Address");
+        return;
+      }
+      var url = '/extended_abstract?last_name=' + last_name + '&email=' + email;
+      $.get(url, function(data){
+          $('#abstracts_table').html(data);
+          $('.modal').modal();
+      })
+    }
+  </script>
+
+</head>
+<body>
+	<% include partials/header %>
+
+	<main>
+  <div class="container">
+    <h3>Full Paper or Revised Extended Abstract Submission</h3>
+    <p>Step 1. Enter your details below to get a list of submitted abstracts</p>
+    <div class="row">
+          <div class="input-field col s6">
+            <input placeholder="" name="last_name" id="last_name" type="text" class="validate" required>
+            <label for="last_name">Last Name</label>
+          </div>
+        <div class="input-field col s6">
+            <input placeholder="" name="email" id="email" type="email" class="validate" required>
+            <label for="email">Email</label>
+          </div>
+      </div>
+      <button class="waves-effect waves-light offset-s2 light-blue accent-4 btn" style='margin-left: 40%' onclick="getExtendedAbstracts()">Submit</button>
+    
+
+    <div class="row">
+
+      <div id="abstracts_table">
+        
+      </div>
+    </div>
+    </div>
+  </main>
+  <% include partials/footer %>
+</body>
